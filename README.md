@@ -1,2 +1,2 @@
 # BA4318-Homeworks
-print( "Hello World!")
+print ("Hello World!")
